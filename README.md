@@ -1,6 +1,6 @@
 # vuejava
 
-> A Vue.js project
+> 针对后台同学需要了解的Vue项目，主要包含了数据请求(get、post)案例，帮助更快的了解、上手Vue
 
 ## Build Setup
 
